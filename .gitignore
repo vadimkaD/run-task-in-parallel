@@ -6,3 +6,4 @@ poc.js
 dist/
 .nyc_output/
 test/*.log.html
+.idea/*
